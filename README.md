@@ -1,4 +1,7 @@
-# test coverage for  [ddp (v0.12.1)](https://github.com/oortcloud/node-ddp-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ddp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ddp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ddp.svg)](https://travis-ci.org/npmtest/node-npmtest-ddp)
+# npmtest-ddp
+
+#### basic test coverage for  [ddp (v0.12.1)](https://github.com/oortcloud/node-ddp-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ddp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ddp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ddp.svg)](https://travis-ci.org/npmtest/node-npmtest-ddp)
+
 #### Node.js module to connect to servers using DDP protocol.
 
 [![NPM](https://nodei.co/npm/ddp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ddp)
